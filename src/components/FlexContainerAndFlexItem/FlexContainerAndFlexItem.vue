@@ -2,7 +2,7 @@
   <div>
     <div class="mb-3 mb-xl-5">
       <h2>1.1 容器(flex container)和项目(flex item)</h2>
-      <p>容器包裹项目，这里的wrapper就是容器，A和B就是元素。</p>
+      <p>容器包裹项目，这里的wrapper就是容器，A和B就是项目。</p>
       <ul >
         <li>容器：通过为标签添加<mark>display: flex</mark>样式，来声明这是一个容器</li>
         <li>项目：不需要设置。在父标签设置了<mark>display: flex</mark>样式后，子元素自动变成项目。</li>
