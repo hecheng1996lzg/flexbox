@@ -309,15 +309,15 @@
         right: 0;
         bottom: 0;
         margin: auto;
-        animation: desc-option 1s ease infinite alternate;
+        animation: descOption 1s ease infinite alternate;
     }
 
-    @keyframes desc-option {
+    @keyframes descOption {
         0%{
-            opacity: 10%;
+            opacity: 0.1;
         }
         100%{
-            opacity: 30%;
+            opacity: 0.3;
         }
     }
 

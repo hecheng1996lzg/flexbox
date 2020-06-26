@@ -28,7 +28,7 @@
                                    value="flex-start"
                                    checked>
                             <label class="form-check-label" for="align-item-flex-start">
-                                flex-start: 项目从“箭头”开始处开始对齐。
+                                flex-start: 项目从“箭头”起始处开始对齐。
                             </label>
                         </div>
                         <div class="form-check">

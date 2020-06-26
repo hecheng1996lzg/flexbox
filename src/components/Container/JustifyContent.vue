@@ -19,7 +19,7 @@
               <input class="form-check-input" type="radio" v-model="justifyContent" id="flex-start" value="flex-start"
                      checked>
               <label class="form-check-label" for="flex-start">
-                flex-start: 默认值，项目从“箭头”开始处开始对齐。
+                flex-start: 默认值，项目从“箭头”起始处开始对齐。
               </label>
             </div>
             <div class="form-check">

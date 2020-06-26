@@ -46,9 +46,9 @@
       </div>
       <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
         <div class="card-body">
-          3.1 项目的放大比例
-          3.2 项目的缩小比例
-          3.3 项目缩放比例简写
+          <p><router-link to="/flexGrow">3.1 项目的放大比例</router-link></p>
+          <p><router-link to="/flexShrink">3.2 项目的缩小比例</router-link></p>
+          <p><router-link to="/flex">3.3 项目缩放比例简写</router-link></p>
         </div>
       </div>
     </div>
